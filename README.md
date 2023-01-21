@@ -1,6 +1,6 @@
-### Welcome to my page! 👋 I'm Abraham Ahmad Alkhatib
+# Welcome to my page! 👋 I'm Abraham Ahmad Alkhatib
 
-I'm from: 🇺🇸🇨🇳🇵🇸 
+## I'm from: 🇺🇸🇨🇳🇵🇸 
 - 🎓 Studying Bioengineering with a minor in Computer Science at UIUC
 - 🔭 I’m currently working on V2.0 of my personal portfolio!
 - 🌱 I’m focused on learning different methods and photo processing pipelines.
