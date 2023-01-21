@@ -1,13 +1,13 @@
 ### Welcome to my page! 👋 I'm Abraham Ahmad Alkhatib
 
 I'm from: 🇺🇸🇨🇳🇵🇸 
-🎓 Studying Bioengineering with a minor in Computer Science at UIUC
-🔭 I’m currently working on V2.0 of my personal portfolio!
-🌱 I’m focused on learning different methods and photo processing pipelines.
-💬 Ask me about my solo trip to Indonesia!
-📫 Reach me at aaa26@illinois.edu
-😄 Pronouns: He/Him
-🚴‍♂️ Always Keep Riding!
+- 🎓 Studying Bioengineering with a minor in Computer Science at UIUC
+- 🔭 I’m currently working on V2.0 of my personal portfolio!
+- 🌱 I’m focused on learning different methods and photo processing pipelines.
+- 💬 Ask me about my solo trip to Indonesia!
+- 📫 Reach me at aaa26@illinois.edu
+- 😄 Pronouns: He/Him
+- 🚴‍♂️ Always Keep Riding!
 
 
 
