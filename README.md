@@ -6,10 +6,10 @@ BioEngineer and Software Developer
 
 - I'm from: 🇺🇸🇨🇳🇵🇸 
 - 🎓 Studying Bioengineering with a minor in Computer Science at UIUC
-- 🔭 I’m currently working on V3.0 of the ECG-AIr app!
+- 🔭 I’m currently working on a new website for Superfoods and Liquors Grocery Store!
 - 🌱 I’m focused on learning different methods of photo processing pipelines.
 - 💬 Ask me about my summer research in North Carolina!
-- 📫 Reach me at aaa26@illinois.edu
+- 📫 Reach me at aaa26@illinois.edu, open to freelance.
 - 😄 Pronouns: He/Him
 - 🚴‍♂️ Always Keep Riding!
 
