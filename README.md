@@ -1,16 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abraham Alkhatib
 ========================================================================================================================================
 
-BioEngineer and Software Developer
+Bioengineer and Software Developer
 ----------------------------------
-
-- I'm from: 🇺🇸🇨🇳🇵🇸 
-- 🎓 Studying Bioengineering with a minor in Computer Science at UIUC
-- 🔭 I’m currently working on a new website for Superfoods and Liquors Grocery Store!
-- 🌱 I’m focused on learning different methods of photo processing pipelines.
-- 💬 Ask me about my summer research in North Carolina!
+Check out my website: [https://abrahamalkhatib.com/]
+- I'm from: 🇨🇳🇺🇸🇵🇸 
+- 🔭 I’m currently working on a detached social media interface!
 - 📫 Reach me at aaa26@illinois.edu, open to freelance.
-- 😄 Pronouns: He/Him
 - 🚴‍♂️ Always Keep Riding!
 
 ### Skills
